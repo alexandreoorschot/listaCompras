@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">DynamicListView</string>
+    <string name="addItemHint">New Item</string>
+    <string name="add_item">Add Item</string>
+    <string name="AddItemHint">Add Item</string>
+
+</resources>
